@@ -1,0 +1,47 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l07/com.python.pydev.analysis/v2_indexcache
+t10|1667271508686077297|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t10.py
+functions|1667278707286760384|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/functions.py
+t01|1667276166858093102|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t01.py
+t03|1667271921214307233|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t03.py
+t05|1667278619011548764|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t05.py
+t07|1667271508940222838|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t07.py
+t06|1667272378871133921|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t06.py
+t09|1667278461455807413|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t09.py
+t08|1667279007124754269|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t08.py
+4=functions
+6=t01
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t03.py
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t09.py
+8=t03
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/t01.py
+10=t09
+2=t08
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l07/src/functions.py
+-- END DICTIONARY
+-- START TREE 1
+15
+ava|1|available!1^14#1*19@
+bud|1|budget!3^155#5*34@
+cou|1|count!5^16#1*51@
+cur|1|current!7^15#1*67@
+get|1|get_int!3^195#5*34@
+hi_|1|hi_lo_game!3^16#5*34@
+hig|1|high!9^14#1*83@
+low|1|low!9^15#1*83@
+max|1|max!5^14#1*51@
+pop|1|population_growth!3^47#5*34@
+pos|1|positive_statistics!3^72#5*34@
+rat|1|rate!7^16#1*67@
+tar|1|target!7^14#1*67@
+val|1|value!9^17#1*83@
+yea|1|years!7^18#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

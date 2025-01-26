@@ -1,0 +1,115 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+Version: 2022-11-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the winning team: blue
+Enter the winning team: grey
+Enter the winning team: blue
+Enter the winning team: grey
+Enter the winning team: 
+(2, 2)
+
+Enter the winning team: grey
+Enter the winning team: grey
+Enter the winning team: grey
+Enter the winning team: blue
+Enter the winning team: 
+(1, 3)
+
+Enter the winning team: blue
+Enter the winning team: blue
+Enter the winning team: blue
+Enter the winning team: 
+(3, 0)
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a number: 1
+1 is not a prime number.
+
+Enter a number: 3
+3 is a prime number.
+
+Enter a number: 9
+9 is not a prime number.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter principal amount: 1000
+Yearly interest rate: 5
+Monthly payment: 300
+Principal:   $1000.00
+Interest rate : 5.0%
+Monthly payment: $300.00
+----------------------------------
+Month Interest   Payment   Balance
+----------------------------------
+    1     4.17    300.00    704.17
+    2     2.93    300.00    407.10
+    3     1.70    300.00    108.80
+    4     0.45    109.25      0.00
+    
+    
+Enter principal amount: 200
+Yearly interest rate: 3
+Monthly payment: 50
+Principal:   $200.00
+Interest rate : 3.0%
+Monthly payment: $50.00
+----------------------------------
+Month Interest   Payment   Balance
+----------------------------------
+    1     0.50     50.00    150.50
+    2     0.38     50.00    100.88
+    3     0.25     50.00     51.13
+    4     0.13     50.00      1.26
+    5     0.00      1.26      0.00
+    
+    
+Enter principal amount: 2000
+Yearly interest rate: 10
+Monthly payment: 400
+Principal:   $2000.00
+Interest rate : 10.0%
+Monthly payment: $400.00
+----------------------------------
+Month Interest   Payment   Balance
+----------------------------------
+    1    16.67    400.00   1616.67
+    2    13.47    400.00   1230.14
+    3    10.25    400.00    840.39
+    4     7.00    400.00    447.39
+    5     3.73    400.00     51.12
+    6     0.43     51.55      0.00
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a number: 12
+12 has 2 digits.
+
+Enter a number: 0
+0 has 1 digit(s).
+
+Enter a number: -365
+365 has 3 digit(s).
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a number: 12
+The sum of the factors of 12 is 16.
+
+Enter a number: 4
+The sum of the factors of 4 is 3.
+
+Enter a number: 65
+The sum of the factors of 65 is 19.
+-------------------------------------------------------

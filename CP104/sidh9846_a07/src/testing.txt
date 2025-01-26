@@ -1,0 +1,155 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+Version: 2022-11-17
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a number: 12
+The factors for 12 are [1, 2, 3, 4, 6].
+
+Enter a number: 29
+The factors for 29 are [1].
+
+Enter a number: 98
+The factors for 98 are [1, 2, 7, 14, 49].
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive number: 1
+Enter a positive number: 5
+Enter a positive number: -7
+Enter a positive number: 4
+Enter a positive number: -9
+Enter a positive number: 7
+Enter a positive number: 0
+[1, 5, 4, 7]
+
+Enter a positive number: -4
+Enter a positive number: -7
+Enter a positive number: -2
+Enter a positive number: 6
+Enter a positive number: 8
+Enter a positive number: 0
+[6, 8]
+
+Enter a positive number: 5
+Enter a positive number: 8
+Enter a positive number: 3
+Enter a positive number: -6
+Enter a positive number: -7
+Enter a positive number: 0
+[5, 8, 3]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a positive number: 2
+Enter a positive number: 6
+Enter a positive number: 5
+Enter a positive number: 2
+Enter a positive number: 8
+Enter a positive number: 2
+Enter a positive number: 0
+Enter a target: 2
+[0, 3, 5]
+
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 6
+Enter a positive number: 3
+Enter a positive number: 6
+Enter a positive number: 8
+Enter a positive number: 6
+Enter a positive number: 0
+Enter a target: 6
+[2, 4, 6]
+
+Enter a positive number: 5
+Enter a positive number: 5
+Enter a positive number: 7
+Enter a positive number: 9
+Enter a positive number: 7
+Enter a positive number: 0
+Enter a target: 7
+[2, 4]
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Miniend List
+Enter a positive number: 3
+Enter a positive number: 5
+Enter a positive number: 8
+Enter a positive number: 5
+Enter a positive number: 6
+Enter a positive number: 0
+Subtrahend List
+Enter a positive number: 8
+Enter a positive number: 9
+Enter a positive number: 0
+None
+minuend after: [3, 5, 5, 6]
+
+Miniend List
+Enter a positive number: 7
+Enter a positive number: 4
+Enter a positive number: 6
+Enter a positive number: 9
+Enter a positive number: 7
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 0
+Subtrahend List
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 9
+Enter a positive number: 0
+None
+minuend after: [7, 6, 7]
+
+Miniend List
+Enter a positive number: 5
+Enter a positive number: 6
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 0
+Subtrahend List
+Enter a positive number: 5
+Enter a positive number: 3
+Enter a positive number: 0
+None
+minuend after: [6, 4, 2]
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 0
+The list is sorted.
+
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 0
+The list is not sorted and breaks at index 5.
+
+Enter a positive number: 4
+Enter a positive number: 3
+Enter a positive number: 2
+Enter a positive number: 1
+Enter a positive number: 0
+The list is not sorted and breaks at index 1.
+-------------------------------------------------------

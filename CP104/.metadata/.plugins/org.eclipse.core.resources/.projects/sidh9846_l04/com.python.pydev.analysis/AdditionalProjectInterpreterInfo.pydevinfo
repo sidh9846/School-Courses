@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l04/com.python.pydev.analysis/v2_indexcache
+t10|1665078026558100597|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l04/src/t10.py
+functions|1665185370741825609|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l04/src/functions.py
+t01|1664826433141681579|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l04/src/t01.py
+t14|1664826783017169416|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l04/src/t14.py
+t04|1664826682310846449|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l04/src/t04.py
+t07|1664826746003184030|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l04/src/t07.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l04/src/functions.py
+2=functions
+-- END DICTIONARY
+-- START TREE 1
+11
+dia|1|diameter!1^24#5*18@
+dim|1|DIME!1^14#1*19@
+loo|1|LOONIE!1^16#1*19@
+nic|1|NICKEL!1^13#1*19@
+pop|1|population!1^103#5*18@
+qua|1|QUARTER!1^15#1*19@
+sec|3|SEC_IN_HR!1^20#1*19@SEC_IN_MIN!1^21#1*19@SEC_IN_DAY!1^19#1*19@
+squ|1|square_pyramid!1^42#5*18@
+tim|1|time_values!1^126#5*18@
+too|1|TOONIE!1^17#1*19@
+tot|1|total_change!1^71#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

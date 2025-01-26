@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l03/com.python.pydev.analysis/v2_indexcache
+t10|1664316973118950976|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l03/src/t10.py
+t01|1664316972763969834|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l03/src/t01.py
+t12|1664316972603802636|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l03/src/t12.py
+t03|1664316972427503693|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l03/src/t03.py
+t13|1663907344969007418|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l03/src/t13.py
+t15|1664316972955324436|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l03/src/t15.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l03/src/t13.py
+2=t10
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l03/src/t15.py
+6=t12
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l03/src/t12.py
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l03/src/t10.py
+8=t13
+4=t15
+-- END DICTIONARY
+-- START TREE 1
+12
+day|1|day!1^14#1*19@
+dec|1|decimal!3^13#1*35@
+fir|1|first!5^12#1*51@
+hou|1|hours!7^15#1*67@
+int|1|integer!3^12#1*35@
+min|1|minutes!7^18#1*67@
+mon|1|month!1^13#1*19@
+phr|1|phrase!3^14#1*35@
+sec|3|seconds_input!7^12#1*67@seconds!7^13#1*67@second!5^13#1*51@
+thi|1|third!5^14#1*51@
+tot|1|total!5^16#1*51@
+yea|1|year!1^12#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

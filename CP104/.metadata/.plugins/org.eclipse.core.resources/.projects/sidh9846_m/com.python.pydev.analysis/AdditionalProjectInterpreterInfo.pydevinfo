@@ -1,0 +1,51 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_m/com.python.pydev.analysis/v2_indexcache
+t01|1667143516000000000|/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t01.py
+t01_functions|1667413281695998066|/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t01_functions.py
+t03|1667143516000000000|/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t03.py
+t04_functions|1667411703817833664|/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t04_functions.py
+t02|1667410677466834224|/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t02.py
+t04|1667411901963009830|/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t04.py
+t02_functions|1667410629221428875|/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t02_functions.py
+t03_functions|1667413445732233873|/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t03_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t03_functions.py
+16=t01_functions
+11=/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t02_functions.py
+12=t02_functions
+15=/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t01_functions.py
+2=t03_functions
+13=/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t03.py
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t02.py
+4=t01
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t01.py
+8=t04_functions
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t04.py
+14=t03
+6=t02
+10=t04
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_m/src/t04_functions.py
+-- END DICTIONARY
+-- START TREE 1
+14
+bas|1|BASE_COST!1^12#1*19@
+cas|2|CASES!3^22#1*35@cases!5^14#1*51@
+cat|2|categorize!7^13#5*66@category!9^16#1*83@
+che|1|chess_rating!11^13#5*98@
+cos|2|cost!13^14#1*115@COST_PER_DLC!1^13#1*19@
+dim|2|DIME!15^13#1*131@dimes!3^25#5*35@
+loo|2|loonies!3^27#5*35@LOONIE!15^15#1*131@
+nic|2|NICKEL!15^12#1*131@nickels!3^24#5*35@
+qua|2|QUARTER!15^14#1*131@quarters!3^26#5*35@
+rat|1|rating!5^17#5*51@
+tot|2|total_coins!15^19#5*130@total!3^28#5*35@
+val|1|value!9^15#1*83@
+vid|1|video_game_purchase!1^18#5*18@
+vip|1|VIP_DISCOUNT!1^14#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

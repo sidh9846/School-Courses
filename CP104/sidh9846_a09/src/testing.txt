@@ -1,0 +1,188 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+Version: 2022-11-30
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter number of lines: 4
+"""
+-------------------------------------------------------
+Assignment 9, Functions File
+-------------------------------------------------------
+
+Enter number of lines: 7
+"""
+-------------------------------------------------------
+Assignment 9, Functions File
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+
+Enter number of lines: 10
+"""
+-------------------------------------------------------
+Assignment 9, Functions File
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+__updated__ = "2022-11-30"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Scores01,10,20,30
+Scores02,40,50,60
+Scores03,90,80,70
+Scores04,11,22,13
+Scores05,14,14,20
+[10, 20, 30, 40, 50, 60, 90, 80, 70, 11, 22, 13, 14, 14, 20]
+
+Scores01,-10,20,30
+Scores02,40,50,60
+Scores03,90,-80,70
+Scores04,11,22,13
+Scores05,14,-14,20
+[20, 30, 40, 50, 60, 90, 70, 11, 22, 13, 14, 20]
+
+Scores01,-10,20,30
+Scores02,40,-50,60
+Scores03,90,-80,70
+Scores04,-11,22,13
+Scores05,14,-14,20
+[20, 30, 40, 60, 90, 70, 22, 13, 14, 20]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+David Brown
+King St
+Waterloo, ON
+Q1Q 1Q1
+--
+Angele Foley
+Weber St
+Waterloo, ON
+F0Q 8I7
+--
+Tasmin Brown
+Awesome Avenue
+Waterloo, ON
+U1F 5D4
+--
+Duran Duran
+Rock Ave
+Kitchener, ON
+R0K 0N3
+--
+Jane Doe
+Upscale Boulevard
+Waterloo, ON
+A1A 1A1
+--
+
+There are 50 upper case letters, 114 lower case letters, 15 digits, and 20 whitespaces.
+
+abc ABC 123
+There are 3 upper case letters, 3 lower case letters, 3 digits, and 2 whitespaces.
+
+ljjsn lsdngl lskdngln 12 lwng 1314lk n 
+There are 0 upper case letters, 26 lower case letters, 6 digits, and 7 whitespaces.
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+line 0
+line 1
+line 2
+
+[0] line 0
+[1] line 1
+[2] line 2
+
+
+test
+test
+test
+
+[0] test
+[1] test
+[2] test
+
+
+the
+quick
+brown
+fox
+jumps
+over
+the
+lazy
+dog
+
+[0] the
+[1] quick
+[2] brown
+[3] fox
+[4] jumps
+[5] over
+[6] the
+[7] lazy
+[8] dog
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Patel,Bina,820000095,54
+Xu,Weilin,820000046,68
+Santos,Jose,820000023,73
+Brown,David,820000000,92
+Pavlova,Danica,820000037,71
+Smith,Bina,820000041,59
+Dang,Bob,820000075,44
+Snord,Cranston,820000019,84
+Thomson,Mi-Leng,820000055,77
+
+The student with the lowest grade was student 820000075.
+The student with the highest grade was student 820000000.
+The average was 69.11.
+
+
+Patel,Bina,820000095,54
+Xu,Weilin,820000046,68
+Santos,Jose,820000023,73
+Brown,David,820000000,92
+Pavlova,Danica,820000037,71
+Smith,Bina,820000041,59
+Dang,Bob,820000075,44
+Snord,Cranston,820000019,84
+Thomson,Mi-Leng,820000055,77
+Tintu, Bintu,47384729,4
+
+The student with the lowest grade was student 47384729.
+The student with the highest grade was student 820000000.
+The average was 62.60.
+
+
+Patel,Bina,820000095,54
+Xu,Weilin,820000046,68
+Santos,Jose,820000023,73
+Brown,David,820000000,92
+Pavlova,Danica,820000037,71
+Smith,Bina,820000041,59
+Dang,Bob,820000075,44
+Snord,Cranston,820000019,84
+Thomson,Mi-Leng,820000055,77
+Tintu, Bintu,47384729,4
+Jeff, Deff,1234567,99
+
+The student with the lowest grade was student 47384729.
+The student with the highest grade was student 1234567.
+The average was 65.91.
+-------------------------------------------------------

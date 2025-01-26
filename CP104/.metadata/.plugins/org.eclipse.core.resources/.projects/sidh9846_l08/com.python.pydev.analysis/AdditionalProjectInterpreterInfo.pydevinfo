@@ -1,0 +1,41 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l08/com.python.pydev.analysis/v2_indexcache
+functions|1668107529122303514|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/functions.py
+t11|1668108281716920149|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/t11.py
+t03|1668105616067697641|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/t03.py
+t05|1668106630687037533|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/t05.py
+t15|1668108349703601730|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/t15.py
+t09|1668108210887078788|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/t03.py
+2=functions
+12=t11
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/t05.py
+8=t03
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/t15.py
+4=t05
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/t09.py
+10=t15
+11=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/t11.py
+6=t09
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l08/src/functions.py
+-- END DICTIONARY
+-- START TREE 1
+10
+dot|1|dot_product!1^91#5*18@
+get|2|get_lotto_numbers!1^36#5*18@get_digit_name!1^15#5*18@
+hig|1|high!3^16#1*35@
+ind|1|indexes!5^14#1*51@
+low|1|low!3^15#1*35@
+man|1|many_search!1^64#5*18@
+nam|1|name!7^16#1*67@
+num|3|num!3^14#1*35@numbers!3^18#1*35@number!7^14#1*67@
+sym|1|symmetric_difference!1^114#5*18@
+tar|2|target!9^14#1*83@target!11^14#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

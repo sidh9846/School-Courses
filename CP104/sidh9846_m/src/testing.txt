@@ -1,0 +1,69 @@
+"""
+-------------------------------------------------------
+Midterm A Testing
+-------------------------------------------------------
+Author:  David Brown
+ID:      999999999
+Email:   dbrown@wlu.ca
+Version: 2022-10-30
+-------------------------------------------------------
+Task 01
+-------------------------------------------------------
+"""
+
+total_coins(0, 0, 0, 0) → 0
+total_coins(1, 0, 0, 0) → 5
+total_coins(0, 1, 0, 0) → 10
+total_coins(0, 0, 1, 0) → 25
+total_coins(0, 0, 0, 1) → 100
+total_coins(1, 1, 1, 1) → 140
+total_coins(10, 10, 10, 10) → 1400
+
+"""
+-------------------------------------------------------
+Task 02
+-------------------------------------------------------
+"""
+
+chess_rating(-1) → Error
+chess_rating(50) → Novice
+chess_rating(1300) → Class A-D
+chess_rating(2450) → Master
+chess_rating(2675) → Grandmaster
+chess_rating(3010) → Super Grandmaster
+
+"""
+-------------------------------------------------------
+Task 03
+-------------------------------------------------------
+"""
+
+How many DLCs are you purchasing? 0
+Cost: $45.00
+
+How many DLCs are you purchasing? 1
+Cost: $50.00
+
+How many DLCs are you purchasing? 3
+Are you a VIP member (Y/N)? N
+Cost: $60.00
+
+How many DLCs are you purchasing? 3
+Are you a VIP member (Y/N)? Y
+Cost: $54.00
+-------------------------------------------------------
+Task 04
+-------------------------------------------------------
+"""
+
+Enter a value: 1
+positive
+
+Enter a value: 0
+zero
+
+Enter a value: -2
+negative
+
+Enter a value: 1000
+positive

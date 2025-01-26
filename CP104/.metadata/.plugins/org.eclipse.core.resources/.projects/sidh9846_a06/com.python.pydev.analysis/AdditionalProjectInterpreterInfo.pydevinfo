@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_a06/com.python.pydev.analysis/v2_indexcache
+functions|1668129275551619948|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/functions.py
+t01|1668129253571933359|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/t01.py
+t03|1668128198873767765|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/t03.py
+t02|1668127830747847902|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/t02.py
+t05|1668129410457865541|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/t05.py
+t04|1668128995725529945|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=functions
+12=t01
+10=t03
+8=t02
+6=t05
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/functions.py
+4=t04
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/t05.py
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/t02.py
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/t04.py
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/t03.py
+11=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a06/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+11
+dig|2|digit_count!1^110#5*18@digits!3^16#1*35@
+int|1|interest_table!1^68#5*18@
+is_|1|is_prime!1^41#5*18@
+num|3|num!3^14#1*35@num!5^14#1*51@num!7^14#1*67@
+pay|1|payment!9^16#1*83@
+pri|2|prime!7^16#1*67@principal!9^14#1*83@
+rat|1|rate!9^15#1*83@
+sco|1|score!11^14#1*99@
+sum|1|sum_factors!1^137#5*18@
+tot|1|total!5^16#1*51@
+win|1|winner!1^13#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

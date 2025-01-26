@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_a03/com.python.pydev.analysis/v2_indexcache
+functions|1666583042099395376|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/functions.py
+t01|1666582247897358723|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/t01.py
+t03|1666582612260660050|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/t03.py
+t02|1666582467888536162|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/t02.py
+t05|1666040754316771279|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/t05.py
+t04|1666582956006070210|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/functions.py
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/t03.py
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/t04.py
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/t02.py
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a03/src/t01.py
+2=t01
+4=functions
+6=t03
+10=t02
+8=t04
+-- END DICTIONARY
+-- START TREE 1
+13
+acr|1|acres!1^15#1*19@
+dat|2|date_extract!3^57#5*34@date_number!5^14#1*51@
+den|3|denom_product!7^23#1*67@denom2!7^17#1*67@denom1!7^15#1*67@
+fee|1|feet_to_acres!3^19#5*34@
+len|1|length!9^15#1*83@
+mat|1|math_quiz!3^105#5*34@
+mow|1|mow_lawn!3^36#5*34@
+mul|1|multiply_fractions!3^79#5*34@
+num|3|num_product!7^22#1*67@num2!7^16#1*67@num1!7^14#1*67@
+spe|1|speed!9^16#1*83@
+squ|2|SQUARE_FT_PER_ACRE!3^13#1*35@square_footage!1^14#1*19@
+tim|1|time!9^18#1*83@
+wid|1|width!9^14#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,37 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_a09/com.python.pydev.analysis/v2_indexcache
+functions|1669922152904436116|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/functions.py
+t01|1669854291508970089|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/t01.py
+t03|1669854992896391790|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/t03.py
+t02|1669763392400628460|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/t02.py
+t05|1669855189575822278|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/t05.py
+t04|1669922029661944144|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/t03.py
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/t04.py
+11=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/t05.py
+6=t01
+10=functions
+4=t03
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/functions.py
+2=t02
+12=t05
+8=t04
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/t01.py
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a09/src/t02.py
+-- END DICTIONARY
+-- START TREE 1
+6
+fh|3|fh!1^14#1*19@fh!3^14#1*35@fh!5^14#1*51@
+fh_|2|fh_in!7^14#1*67@fh_out!7^15#1*67@
+fil|3|file_integers!9^39#5*82@file_stats!9^67#5*82@file_head!9^13#5*82@
+lin|1|linecount!5^16#1*51@
+num|2|number_lines!9^105#5*82@numbers!1^15#1*19@
+stu|2|students!11^14#1*99@student_info!9^134#5*82@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

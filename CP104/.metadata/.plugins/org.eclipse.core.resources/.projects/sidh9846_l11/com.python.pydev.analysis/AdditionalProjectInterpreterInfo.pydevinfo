@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l11/com.python.pydev.analysis/v2_indexcache
+t10|1669700996452729755|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/t10.py
+functions|1669701482164998124|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/functions.py
+t01|1669700548149864608|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/t01.py
+t14|1669701231947603535|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/t14.py
+t02|1669700661045531323|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/t02.py
+t07|1669701164975463404|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/t07.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+8=t10
+2=functions
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/t01.py
+6=t01
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/functions.py
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/t02.py
+10=t14
+4=t02
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/t14.py
+11=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/t07.py
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l11/src/t10.py
+12=t07
+-- END DICTIONARY
+-- START TREE 1
+11
+alp|1|ALPHA!1^14#1*19@
+col|2|cols!3^15#1*35@cols!5^15#1*51@
+fin|2|find_word_horizontal!1^126#5*18@find_position!1^76#5*18@
+gen|2|generate_matrix_char!1^51#5*18@generate_matrix_num!1^17#5*18@
+hig|1|high!5^17#1*51@
+low|1|low!5^16#1*51@
+mat|6|matrix!5^21#1*51@matrix!7^14#1*67@matrix!9^14#1*83@matrix!11^14#1*99@matrix_transpose!1^156#5*18@matrix!3^17#1*35@
+row|3|rows!7^18#1*67@rows!5^14#1*51@rows!3^14#1*35@
+tra|1|transposed!9^16#1*83@
+val|1|value_type!5^18#1*51@
+wor|1|word!7^16#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

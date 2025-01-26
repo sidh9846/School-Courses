@@ -1,0 +1,69 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+Version: 2022-11-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Type String: TheQuickBrownFoxJumpsOverTheLazyDog.
+New String: The quick brown fox jumps over the lazy dog.
+
+Type String: ThisIsATest
+New String: This is a test
+
+Type String: AlwaysInTheBarberShop,
+New String: Always in the barber shop,
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Type String: baby
+The plural of baby is babies.
+
+Type String: keyboard
+The plural of keyboard is keyboards.
+
+Type String: yes
+The plural of yes is yeses.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Type First String: fastest
+Type Second String: strongest
+The longest common ending of the two stings is "est".
+
+Type First String: better
+Type Second String: stronger
+The longest common ending of the two stings is "er".
+
+Type First String: yellow
+Type Second String: mellow
+The longest common ending of the two stings is "ellow".
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter ISBN: 978-3121-4510--0
+The ISBN 978-3121-4510--0 is not valid.
+
+Enter ISBN: 978-3-16295-739-0
+The ISBN 978-3-16295-739-0 is valid.
+
+Enter ISBN: 978-3-162-967-3950
+The ISBN 978-3-162-967-3950 is not valid.
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+word_list = ['dog', 'god', 'depth', 'happy', 'yellow']
+The list is a word chain.
+
+word_list = ['dog', 'god', 'gardern', 'happy', 'yellow']
+The list is not a word chain.
+
+word_list = ['dog', 'god', 'dairy', 'yellow']
+The list is a word chain.
+-------------------------------------------------------

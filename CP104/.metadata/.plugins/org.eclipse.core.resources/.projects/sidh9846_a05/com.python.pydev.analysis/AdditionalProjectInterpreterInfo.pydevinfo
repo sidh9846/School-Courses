@@ -1,0 +1,45 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_a05/com.python.pydev.analysis/v2_indexcache
+functions|1667502508648040267|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/functions.py
+t01|1667497351010793283|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/t01.py
+t03|1667499081954681291|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/t03.py
+t02|1667502794927885276|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/t02.py
+t05|1667501497485422641|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/t05.py
+t04|1667502619448747963|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/t01.py
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/t02.py
+2=functions
+10=t01
+8=t03
+6=t02
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/t05.py
+4=t05
+12=t04
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/functions.py
+11=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/t04.py
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a05/src/t03.py
+-- END DICTIONARY
+-- START TREE 1
+14
+cal|1|calories_burned!1^34#5*18@
+cou|1|count!3^16#1*35@
+fac|1|factorial!1^13#5*18@
+inc|1|increment!3^15#1*35@
+min|1|minutes!5^15#1*51@
+mul|1|multiplication_table!1^79#5*18@
+num|2|num_rows!7^14#1*67@num!9^14#1*83@
+ope|1|open_triangle!1^57#5*18@
+per|1|per_minute!5^14#1*51@
+pro|1|product!9^16#1*83@
+ran|1|range_total!1^117#5*18@
+sta|2|start!11^14#1*99@start!3^14#1*35@
+sto|1|stop!11^15#1*99@
+tot|1|total!3^18#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

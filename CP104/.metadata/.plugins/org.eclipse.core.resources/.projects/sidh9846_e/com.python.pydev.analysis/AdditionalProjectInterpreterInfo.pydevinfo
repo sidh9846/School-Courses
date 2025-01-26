@@ -1,0 +1,71 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_e/com.python.pydev.analysis/v2_indexcache
+t01_functions|1671557749719027496|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t01_functions.py
+t07_functions|1671557500104033351|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t07_functions.py
+t02_functions|1671563641926922943|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t02_functions.py
+t03_functions|1671560889669015162|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t03_functions.py
+t05_functions|1671558937569134479|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t05_functions.py
+t01|1671557788380301683|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t01.py
+t03|1671463506000000000|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t03.py
+t04_functions|1671564019445559410|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t04_functions.py
+t02|1671463506000000000|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t02.py
+t05|1671463506000000000|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t05.py
+t04|1671463506000000000|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t04.py
+t07|1671563718106565419|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t07.py
+t06|1671563726419960125|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t06.py
+t06_functions|1671563672337956973|/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t06_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+26
+11=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t06.py
+20=t01_functions
+2=t03_functions
+26=t04_functions
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t01.py
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t03.py
+22=t06_functions
+17=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t07.py
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t05.py
+16=t07_functions
+14=t02_functions
+15=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t07_functions.py
+13=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t02_functions.py
+19=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t01_functions.py
+24=t05_functions
+25=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t04_functions.py
+8=t01
+23=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t05_functions.py
+21=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t06_functions.py
+6=t03
+10=t05
+4=t04
+18=t07
+12=t06
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t04.py
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_e/src/t03_functions.py
+-- END DICTIONARY
+-- START TREE 1
+18
+alt|1|alternate_case!1^14#5*18@
+cas|5|CASES!3^14#1*35@CASES!5^14#1*51@CASES!7^19#1*67@CASES!9^18#1*83@CASES!11^24#1*99@
+col|1|COLD_DAY!13^18#1*115@
+dig|1|DIGITS!15^13#1*131@
+f_d|1|f_digits!17^17#1*147@
+f_i|2|f_in!17^16#1*147@f_in!9^21#5*83@
+f_n|1|f_no_digits!17^18#1*147@
+fil|1|file_split!15^16#5*130@
+hot|1|HOT_DAY!13^15#1*115@
+mat|1|matrix!9^22#5*83@
+max|1|max_diff!19^14#5*162@
+ple|2|PLEASANT_DAY_HIGH!13^17#1*115@PLEASANT_DAY_LOW!13^16#1*115@
+rot|1|rotate_list!21^14#5*178@
+sen|1|SENTINEL_VALUE!13^19#1*115@
+spa|1|sparse_matrix!23^14#5*194@
+tem|1|temperatures!13^22#5*114@
+val|1|values!11^28#5*99@
+wid|1|wide_triangle!25^14#5*210@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l10/com.python.pydev.analysis/v2_indexcache
+functions|1669322471359135109|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/functions.py
+t01|1669322508988084993|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/t01.py
+t12|1669322682220173137|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/t12.py
+t14|1669322030193432167|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/t14.py
+t04|1669322542693369634|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/t04.py
+t08|1669322632955589211|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/functions.py
+2=functions
+8=t01
+12=t12
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/t08.py
+4=t14
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/t04.py
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/t14.py
+11=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/t12.py
+6=t04
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l10/src/t01.py
+10=t08
+-- END DICTIONARY
+-- START TREE 1
+9
+app|1|append_increment!1^71#5*18@
+cop|1|copy_file!3^15#1*35@
+cus|4|customer_first!1^41#5*18@customer_file!5^14#1*51@customer_record!1^13#5*18@customer_file!7^14#1*67@
+fil|1|file_copy_n!1^126#5*18@
+fin|1|find_shortest!1^101#5*18@
+num|3|num_file!9^14#1*83@num!9^16#1*83@num!3^18#1*35@
+rec|1|record_num!7^16#1*67@
+res|2|result!5^15#1*51@result!7^17#1*67@
+wor|3|words_file!11^14#1*99@word_file!3^14#1*35@word!11^15#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

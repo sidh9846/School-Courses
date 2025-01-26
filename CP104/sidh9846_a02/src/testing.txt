@@ -1,0 +1,174 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+Version: 2022-10-03
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total sales: $32000
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 32,000.00
+Annual tax:    % 18.50
+--------------------------
+Tax:           $  5,920.00
+
+
+
+
+Enter the total sales: $12500
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 12,500.00
+Annual tax:    % 18.50
+--------------------------
+Tax:           $  2,312.50
+
+
+Enter the total sales: $100000
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 100,000.00
+Annual tax:    % 18.50
+--------------------------
+Tax:           $  18,500.00
+
+
+Enter the total sales: $52378
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 52,378.00
+Annual tax:    % 18.50
+--------------------------
+Tax:           $  9,689.93
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive digit number: 25
+The product of the digits of 25 is 10
+
+
+Enter a positive digit number: 11
+The product of the digits of 11 is 1
+
+Enter a positive digit number: 58
+The product of the digits of 58 is 40
+
+Enter a positive digit number: 74
+The product of the digits of 74 is 28
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format DDMMYYYY: 25101962
+The reformatted date: 1962/10/25
+
+
+Enter a date in the format DDMMYYYY: 02042009
+The reformatted date: 2009/04/02
+
+Enter a date in the format DDMMYYYY: 27061974
+The reformatted date: 1974/06/27
+
+Enter a date in the format DDMMYYYY: 13121982
+The reformatted date: 1982/12/13
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of pieces of cake: 12
+Number of party-goers: 5
+
+Each party-goer receives 2 pieces of cake
+Pieces of cake that won’t be distributed: 2
+
+
+
+
+Number of pieces of cake: 12
+Number of party-goers: 6
+
+Each party-goer receives 2 pieces of cake
+Pieces of cake that won’t be distributed: 0
+
+
+Number of pieces of cake: 8
+Number of party-goers: 6
+
+Each party-goer receives 1 pieces of cake
+Pieces of cake that won’t be distributed: 2
+
+
+Number of pieces of cake: 18
+Number of party-goers: 4
+
+Each party-goer receives 4 pieces of cake
+Pieces of cake that won’t be distributed: 2
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Foundation length (m): 4.0
+Foundation width (m): 2.0
+Foundation height (m): 0.6
+Wall height (m): 2.5
+Cost of concrete ($/m^3): 125
+Cost of bricks ($/m^2): 94
+
+Concrete needed for foundation (m^3): 4.80
+Cost of concrete: $600.00
+Bricks needed for walls (m^2): 30.00
+Cost of bricks: $2,820.00
+Total cost: $3,420.00
+
+
+
+
+Foundation length (m): 3
+Foundation width (m): 6
+Foundation height (m): 2
+Wall height (m): 7
+Cost of concrete ($/m^3): 152
+Cost of bricks ($/m^2): 43
+
+Concrete needed for foundation (m^3): 36.00
+Cost of concrete: $5,472.00
+Bricks needed for walls (m^2): 126.00
+Cost of bricks: $5,418.00
+Total cost: $10,890.00
+
+
+Foundation length (m): 2
+Foundation width (m): 5
+Foundation height (m): 5
+Wall height (m): 2.7
+Cost of concrete ($/m^3): 100
+Cost of bricks ($/m^2): 62
+
+Concrete needed for foundation (m^3): 50.00
+Cost of concrete: $5,000.00
+Bricks needed for walls (m^2): 37.80
+Cost of bricks: $2,343.60
+Total cost: $7,343.60
+
+
+Foundation length (m): 8
+Foundation width (m): 2
+Foundation height (m): 6
+Wall height (m): 6.8
+Cost of concrete ($/m^3): 24
+Cost of bricks ($/m^2): 153
+
+Concrete needed for foundation (m^3): 96.00
+Cost of concrete: $2,304.00
+Bricks needed for walls (m^2): 136.00
+Cost of bricks: $20,808.00
+Total cost: $23,112.00
+-------------------------------------------------------

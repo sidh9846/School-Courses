@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l06/com.python.pydev.analysis/v2_indexcache
+t10|1666897660638523585|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l06/src/t10.py
+functions|1666897845127430301|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l06/src/functions.py
+t12|1666897659705162160|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l06/src/t12.py
+t03|1666897661935678252|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l06/src/t03.py
+t15|1666897658267945148|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l06/src/t15.py
+t07|1666897661377818282|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l06/src/t07.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l06/src/functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+dra|1|draw_arrow!1^38#5*18@
+gic|1|gic!1^85#5*18@
+sta|1|statistics!1^114#5*18@
+sum|1|sum_all!1^13#5*18@
+tre|1|treadmill!1^61#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

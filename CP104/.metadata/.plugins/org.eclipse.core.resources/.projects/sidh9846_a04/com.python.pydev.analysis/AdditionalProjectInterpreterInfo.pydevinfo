@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_a04/com.python.pydev.analysis/v2_indexcache
+functions|1666923618633561444|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/functions.py
+t01|1666899489461844884|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/t01.py
+t03|1666902569667753815|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/t03.py
+t02|1666899532826339012|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/t02.py
+t05|1666923592180801431|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/t05.py
+t04|1666903570108064001|/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/t03.py
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/t02.py
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/t01.py
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/functions.py
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/t04.py
+6=t01
+8=functions
+11=/Users/manveer/Documents/Eclipse/CP104/sidh9846_a04/src/t05.py
+10=t03
+2=t02
+12=t05
+4=t04
+-- END DICTIONARY
+-- START TREE 1
+9
+aqi|1|aqi!1^14#1*19@
+col|2|colour2!3^15#1*35@colour1!3^14#1*35@
+day|3|day_input!5^14#1*51@day_of_week!7^13#5*66@day!5^16#1*51@
+lev|1|level!1^16#1*19@
+num|4|num2!9^15#1*83@number!11^14#1*99@num1!9^14#1*83@num3!9^16#1*83@
+pol|1|pollution_level!7^47#5*66@
+pro|2|product_largest!7^85#5*66@product!9^18#1*83@
+rgb|2|rgb_mix!7^112#5*66@rgb!3^17#1*35@
+yee|2|yee_ha!11^16#1*99@yee_ha!7^170#5*66@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

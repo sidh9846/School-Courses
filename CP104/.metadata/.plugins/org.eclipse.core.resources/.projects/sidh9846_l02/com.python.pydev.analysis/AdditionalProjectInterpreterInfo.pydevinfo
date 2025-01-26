@@ -1,0 +1,45 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l02/com.python.pydev.analysis/v2_indexcache
+t10|1663793131278489458|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l02/src/t10.py
+t01|1663869635437085418|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l02/src/t01.py
+t05|1663793134891329243|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l02/src/t05.py
+t07|1663869387679868802|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l02/src/t07.py
+t06|1663868822082181630|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l02/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+6=t10
+9=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l02/src/t05.py
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l02/src/t06.py
+8=t01
+7=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l02/src/t01.py
+5=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l02/src/t10.py
+10=t05
+4=t07
+2=t06
+3=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l02/src/t07.py
+-- END DICTIONARY
+-- START TREE 1
+17
+bot|1|bottom!1^24#1*19@
+fly|3|fly_leftover!3^16#1*35@flyers!3^12#1*35@fly_per_vol!3^15#1*35@
+foo|1|food_charge!5^12#1*51@
+fre|1|FREEZING!7^12#1*67@
+hr_|2|hr_worked!9^13#1*83@hr_rate!9^12#1*83@
+mon|2|month_rate!1^20#1*19@months!1^19#1*19@
+pay|1|payments!1^25#1*19@
+pri|1|principal!1^13#1*19@
+sal|1|sales_tax!5^13#1*51@
+sub|1|subtotal!5^16#1*51@
+tax|1|tax!5^17#1*51@
+tem|2|temp_fer!7^14#1*67@temp_cel!7^13#1*67@
+tip|2|tip_percent!5^14#1*51@tip!5^18#1*51@
+top|1|top!1^23#1*19@
+tot|2|total!5^19#1*51@total_pay!9^15#1*83@
+vol|1|volunteers!3^13#1*35@
+yea|2|years!1^14#1*19@year_rate!1^15#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,29 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l05/com.python.pydev.analysis/v2_indexcache
+functions|1666042545624314269|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l05/src/functions.py
+t01|1666042294640224022|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l05/src/t01.py
+t03|1666042317017583631|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l05/src/t03.py
+t04|1666042348372080566|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l05/src/t04.py
+t15|1666042433059502381|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l05/src/t15.py
+t09|1666042377351178506|/Users/manveer/Documents/Eclipse/CP104/sidh9846_l05/src/t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=/Users/manveer/Documents/Eclipse/CP104/sidh9846_l05/src/functions.py
+-- END DICTIONARY
+-- START TREE 1
+8
+bur|1|BURGER!1^16#1*19@
+clo|1|closest!1^77#5*18@
+fas|1|fast_food!1^136#5*18@
+fri|4|FRIES_COMBO!1^18#1*19@FRIENDS_2_RATE!1^14#1*19@FRIENDS_1_RATE!1^13#1*19@FRIENDS_3_RATE!1^15#1*19@
+gym|1|gym_cost!1^46#5*18@
+mag|1|magic_date!1^22#5*18@
+sal|1|SALAD_COMBO!1^19#1*19@
+win|2|WINGS!1^17#1*19@wind_speed!1^105#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

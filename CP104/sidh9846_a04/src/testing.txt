@@ -1,0 +1,75 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+Version: 2022-10-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter day of the week (int): 6
+Saturday
+
+Enter day of the week (int): 0
+Error
+
+Enter day of the week (int): -3
+Error
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter AQI: 50
+Good
+
+Enter AQI: 400
+Hazardous
+
+Enter AQI: -4
+Error
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter First Number: 1
+Enter Second Number: 2
+Enter Third Number: 3
+6.0
+
+Enter First Number: 5
+Enter Second Number: 3
+Enter Third Number: -6
+15.0
+
+Enter First Number: 0
+Enter Second Number: -3
+Enter Third Number: 4
+0.0
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Colour 1:green
+Colour 2:blue
+aqua
+
+Colour 1:orange
+Colour 2:blue
+Error
+
+Colour 1:red
+Colour 2:red
+red
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a number: 12
+Yee
+
+Enter a number: 54
+Yee
+
+Enter a number: -43
+Nada
+-------------------------------------------------------
