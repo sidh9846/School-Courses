@@ -1,0 +1,66 @@
+18:35:05 **** Incremental Build of configuration Debug for project sidh9846_l06 ****
+make all 
+Building file: ../src/data.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/data.d" -MT"src/data.o" -o "src/data.o" "../src/data.c"
+Finished building: ../src/data.c
+ 
+Building file: ../src/data2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/data2.d" -MT"src/data2.o" -o "src/data2.o" "../src/data2.c"
+Finished building: ../src/data2.c
+ 
+Building file: ../src/main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building file: ../src/main2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main2.d" -MT"src/main2.o" -o "src/main2.o" "../src/main2.c"
+In file included from ../src/main2.c:16:
+In file included from ../src/stack_linked.h:20:
+../src/data.h:23:14: error: redefinition of 'boolean'
+typedef enum boolean {
+             ^
+../src/data2.h:24:14: note: previous definition is here
+typedef enum boolean {
+             ^
+In file included from ../src/main2.c:16:
+In file included from ../src/stack_linked.h:20:
+../src/data.h:24:5: error: redefinition of enumerator 'FALSE'
+    FALSE = 0, TRUE = 1
+    ^
+../src/data2.h:25:5: note: previous definition is here
+    FALSE = 0, TRUE = 1
+    ^
+In file included from ../src/main2.c:16:
+In file included from ../src/stack_linked.h:20:
+../src/data.h:24:16: error: redefinition of enumerator 'TRUE'
+    FALSE = 0, TRUE = 1
+               ^
+../src/data2.h:25:16: note: previous definition is here
+    FALSE = 0, TRUE = 1
+               ^
+In file included from ../src/main2.c:16:
+In file included from ../src/stack_linked.h:20:
+../src/data.h:25:3: error: typedef redefinition with different types ('enum (unnamed enum at ../src/data.h:23:14)' vs 'enum boolean')
+} BOOLEAN;
+  ^
+../src/data2.h:26:3: note: previous definition is here
+} BOOLEAN;
+  ^
+In file included from ../src/main2.c:16:
+In file included from ../src/stack_linked.h:20:
+../src/data.h:39:14: error: typedef redefinition with different types ('int *' vs 'char *')
+typedef int *data_ptr;
+             ^
+../src/data2.h:40:15: note: previous definition is here
+typedef char *data_ptr;
+              ^
+5 errors generated.
+make: *** [src/main2.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+18:35:05 Build Failed. 6 errors, 0 warnings. (took 808ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sidh9846_l08/src/avl_linked.c&apos; to &apos;avl_linkedBAD.c&apos;" description="Rename resource &apos;avl_linked.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/avl_linked.c" name="avl_linkedBAD.c" stamp="1710204482750" updateReferences="true"/>
+</session>

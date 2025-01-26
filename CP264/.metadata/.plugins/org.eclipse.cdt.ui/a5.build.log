@@ -1,0 +1,15 @@
+19:46:42 **** Incremental Build of configuration Debug for project a5 ****
+make all 
+Building file: ../src/bigint.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/bigint.d" -MT"src/bigint.o" -o "src/bigint.o" "../src/bigint.c"
+Finished building: ../src/bigint.c
+ 
+Building target: a5
+Invoking: MacOS X C Linker
+gcc  -o "a5"  ./src/bigint.o ./src/bigint_ptest.o ./src/dllist.o ./src/myrecord_sllist.o   
+Finished building target: a5
+ 
+
+19:46:42 Build Finished. 0 errors, 0 warnings. (took 463ms)
+

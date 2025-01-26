@@ -1,0 +1,8 @@
+22:14:01 **** Clean-only build of configuration Debug for project l01 ****
+make clean 
+rm -rf ./test.d ./test.o
+rm -rf l01
+ 
+
+22:14:01 Build Finished. 0 errors, 0 warnings. (took 172ms)
+

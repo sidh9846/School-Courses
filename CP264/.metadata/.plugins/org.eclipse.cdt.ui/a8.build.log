@@ -1,0 +1,22 @@
+21:38:53 **** Incremental Build of configuration Debug for project a8 ****
+make all 
+Building file: ../src/avl.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/avl.d" -MT"src/avl.o" -o "src/avl.o" "../src/avl.c"
+../src/avl.c:222:16: warning: incompatible pointer types passing 'AVLNODE *' (aka 'struct avlnode *') to parameter of type 'AVLNODE **' (aka 'struct avlnode **'); remove * [-Wincompatible-pointer-types]
+        avl_rebalance(*rootp, balance);
+                      ^~~~~~
+../src/avl.c:61:37: note: passing argument to parameter 'node' here
+static void avl_rebalance(AVLNODE **node, int balance) {
+                                    ^
+1 warning generated.
+Finished building: ../src/avl.c
+ 
+Building target: a8
+Invoking: MacOS X C Linker
+gcc  -o "a8"  ./src/avl.o ./src/avl_ptest.o ./src/myrecord_avl.o   
+Finished building target: a8
+ 
+
+21:38:53 Build Finished. 0 errors, 1 warnings. (took 452ms)
+

@@ -1,0 +1,34 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 5 Test Results File
+ * -------------------------------------
+ * @author Manveer Sidhu, 169029846, sidh9846@mylaurier.ca
+ *
+ * @version 2024-02-09
+ *
+ * -------------------------------------
+ */
+
+Reading names from file:
+Fan, Hongbing: appended to set
+Ali, Heider: appended to set
+Gao, Shaun: appended to set
+Brown, David: appended to set
+Singh, Sukhjit: appended to set
+
+Names in set:
+Hongbing, Fan
+Heider, Ali
+Shaun, Gao
+David, Brown
+Sukhjit, Singh
+
+Is most recent name in set?
+Singh, Sukhjit: is in set
+
+Attempt to re-append most recent name:
+Singh, Sukhjit: already in set
+
+Freed 8 nodes
+set header: 0x0

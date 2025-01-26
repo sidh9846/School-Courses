@@ -1,0 +1,15 @@
+15:30:05 **** Incremental Build of configuration Debug for project a2 ****
+make all 
+Building file: ../src/fibonacci.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/fibonacci.d" -MT"src/fibonacci.o" -o "src/fibonacci.o" "../src/fibonacci.c"
+Finished building: ../src/fibonacci.c
+ 
+Building target: a2
+Invoking: MacOS X C Linker
+gcc  -o "a2"  ./src/fibonacci.o ./src/fibonacci_ptest.o ./src/matrix.o ./src/polynomial.o   
+Finished building target: a2
+ 
+
+15:30:06 Build Finished. 0 errors, 0 warnings. (took 883ms)
+

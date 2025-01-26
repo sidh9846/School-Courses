@@ -1,0 +1,15 @@
+10:16:38 **** Build of configuration Debug for project testing ****
+make all 
+Building file: ../src/testing.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/testing.d" -MT"src/testing.o" -o "src/testing.o" "../src/testing.c"
+Finished building: ../src/testing.c
+ 
+Building target: testing
+Invoking: Cross GCC Linker
+gcc  -o "testing"  ./src/testing.o   
+Finished building target: testing
+ 
+
+10:16:43 Build Finished. 0 errors, 0 warnings. (took 4s.927ms)
+

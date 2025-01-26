@@ -1,0 +1,636 @@
+22:57:24 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:21:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+../src/algorithm.c:25:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+../src/algorithm.c:29:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+3 warnings generated.
+Finished building: ../src/algorithm.c
+ 
+Building file: ../src/algorithm_ptest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm_ptest.d" -MT"src/algorithm_ptest.o" -o "src/algorithm_ptest.o" "../src/algorithm_ptest.c"
+Finished building: ../src/algorithm_ptest.c
+ 
+Building file: ../src/edgelist.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/edgelist.d" -MT"src/edgelist.o" -o "src/edgelist.o" "../src/edgelist.c"
+Finished building: ../src/edgelist.c
+ 
+Building file: ../src/graph.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/graph.d" -MT"src/graph.o" -o "src/graph.o" "../src/graph.c"
+Finished building: ../src/graph.c
+ 
+Building file: ../src/heap.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/heap.d" -MT"src/heap.o" -o "src/heap.o" "../src/heap.c"
+Finished building: ../src/heap.c
+ 
+Building file: ../src/queue_stack.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/queue_stack.d" -MT"src/queue_stack.o" -o "src/queue_stack.o" "../src/queue_stack.c"
+Finished building: ../src/queue_stack.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+22:57:33 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+make: Nothing to be done for `all'.
+23:00:48 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:22:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+../src/algorithm.c:26:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+../src/algorithm.c:30:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+3 warnings generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:00:51 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+make: Nothing to be done for `all'.
+23:02:03 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:30:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+../src/algorithm.c:34:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+2 warnings generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:02:43 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:33:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+../src/algorithm.c:37:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+2 warnings generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:03:27 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:45:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:03:53 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:28:07 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+make: Nothing to be done for `all'.
+23:31:03 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:37:6: error: no member named 'data' in 'HEAPDATA'
+                hn.data = temp->nid;
+                ~~ ^
+../src/algorithm.c:38:3: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                insert(h, hn);
+                ^
+../src/algorithm.c:46:8: error: call to undeclared function 'extract_min'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                hn = extract_min(h); // get the minimum node, time
+                     ^
+../src/algorithm.c:46:6: error: assigning to 'HEAPDATA' from incompatible type 'int'
+                hn = extract_min(h); // get the minimum node, time
+                   ^ ~~~~~~~~~~~~~~
+../src/algorithm.c:49:3: error: call to undeclared function 'add_edge_end'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                add_edge_end(mst, parent[i], i, hn.key); // add to MST
+                ^
+../src/algorithm.c:53:16: error: call to undeclared function 'find_data_index'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                        heapindex = find_data_index(h, temp->nid);
+                                    ^
+../src/algorithm.c:56:42: error: member reference type 'HEAPDATA' is not a pointer; did you mean to use '.'?
+                                                && temp->weight < h->hda[heapindex]->key) {
+                                                                  ~~~~~~~~~~~~~~~~~^~
+                                                                                   .
+../src/algorithm.c:57:6: error: call to undeclared function 'change_key'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        change_key(h, heapindex, temp->weight);
+                                        ^
+../src/algorithm.c:64:6: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        insert(h, hn);
+                                        ^
+9 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:31:52 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:37:6: error: no member named 'data' in 'HEAPDATA'
+                hn.data = temp->nid;
+                ~~ ^
+../src/algorithm.c:46:8: error: call to undeclared function 'extract_min'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                hn = extract_min(h); // get the minimum node, time
+                     ^
+../src/algorithm.c:46:6: error: assigning to 'HEAPDATA' from incompatible type 'int'
+                hn = extract_min(h); // get the minimum node, time
+                   ^ ~~~~~~~~~~~~~~
+../src/algorithm.c:49:3: error: call to undeclared function 'add_edge_end'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                add_edge_end(mst, parent[i], i, hn.key); // add to MST
+                ^
+../src/algorithm.c:53:16: error: call to undeclared function 'find_data_index'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                        heapindex = find_data_index(h, temp->nid);
+                                    ^
+../src/algorithm.c:56:42: error: member reference type 'HEAPDATA' is not a pointer; did you mean to use '.'?
+                                                && temp->weight < h->hda[heapindex]->key) {
+                                                                  ~~~~~~~~~~~~~~~~~^~
+                                                                                   .
+../src/algorithm.c:57:6: error: call to undeclared function 'change_key'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        change_key(h, heapindex, temp->weight);
+                                        ^
+../src/algorithm.c:64:6: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        insert(h, hn);
+                                        ^
+8 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:32:08 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:46:8: error: call to undeclared function 'extract_min'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                hn = extract_min(h); // get the minimum node, time
+                     ^
+../src/algorithm.c:46:6: error: assigning to 'HEAPDATA' from incompatible type 'int'
+                hn = extract_min(h); // get the minimum node, time
+                   ^ ~~~~~~~~~~~~~~
+../src/algorithm.c:49:3: error: call to undeclared function 'add_edge_end'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                add_edge_end(mst, parent[i], i, hn.key); // add to MST
+                ^
+../src/algorithm.c:53:16: error: call to undeclared function 'find_data_index'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                        heapindex = find_data_index(h, temp->nid);
+                                    ^
+../src/algorithm.c:56:42: error: member reference type 'HEAPDATA' is not a pointer; did you mean to use '.'?
+                                                && temp->weight < h->hda[heapindex]->key) {
+                                                                  ~~~~~~~~~~~~~~~~~^~
+                                                                                   .
+../src/algorithm.c:57:6: error: call to undeclared function 'change_key'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        change_key(h, heapindex, temp->weight);
+                                        ^
+../src/algorithm.c:64:6: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        insert(h, hn);
+                                        ^
+7 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:32:40 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:49:3: error: call to undeclared function 'add_edge_end'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                add_edge_end(mst, parent[i], i, hn.key); // add to MST
+                ^
+../src/algorithm.c:53:16: error: call to undeclared function 'find_data_index'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                        heapindex = find_data_index(h, temp->nid);
+                                    ^
+../src/algorithm.c:56:42: error: member reference type 'HEAPDATA' is not a pointer; did you mean to use '.'?
+                                                && temp->weight < h->hda[heapindex]->key) {
+                                                                  ~~~~~~~~~~~~~~~~~^~
+                                                                                   .
+../src/algorithm.c:57:6: error: call to undeclared function 'change_key'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        change_key(h, heapindex, temp->weight);
+                                        ^
+../src/algorithm.c:64:6: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        insert(h, hn);
+                                        ^
+5 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:32:51 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:53:16: error: call to undeclared function 'find_data_index'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                        heapindex = find_data_index(h, temp->nid);
+                                    ^
+../src/algorithm.c:56:42: error: member reference type 'HEAPDATA' is not a pointer; did you mean to use '.'?
+                                                && temp->weight < h->hda[heapindex]->key) {
+                                                                  ~~~~~~~~~~~~~~~~~^~
+                                                                                   .
+../src/algorithm.c:57:6: error: call to undeclared function 'change_key'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        change_key(h, heapindex, temp->weight);
+                                        ^
+../src/algorithm.c:64:6: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        insert(h, hn);
+                                        ^
+4 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:33:16 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:56:42: error: member reference type 'HEAPDATA' is not a pointer; did you mean to use '.'?
+                                                && temp->weight < h->hda[heapindex]->key) {
+                                                                  ~~~~~~~~~~~~~~~~~^~
+                                                                                   .
+../src/algorithm.c:57:6: error: call to undeclared function 'change_key'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        change_key(h, heapindex, temp->weight);
+                                        ^
+../src/algorithm.c:64:6: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        insert(h, hn);
+                                        ^
+3 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:33:24 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:56:42: error: member reference type 'HEAPDATA' is not a pointer; did you mean to use '.'?
+                                                && temp->weight < h->hda[heapindex]->key) {
+                                                                  ~~~~~~~~~~~~~~~~~^~
+                                                                                   .
+../src/algorithm.c:64:6: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                                        insert(h, hn);
+                                        ^
+2 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:34:12 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:38:22 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+../src/algorithm.c:102:3: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                insert(h, hn);
+                ^
+../src/algorithm.c:107:8: error: call to undeclared function 'extract_min'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                hn = extract_min(h);
+                     ^
+../src/algorithm.c:107:6: error: assigning to 'HEAPDATA' from incompatible type 'int'
+                hn = extract_min(h);
+                   ^ ~~~~~~~~~~~~~~
+../src/algorithm.c:146:54: error: function definition is not allowed here
+        EDGELIST* sp_dijkstra(GRAPH *g, int start, int end) {
+                                                            ^
+../src/algorithm.c:155:3: error: expected '}'
+        }
+         ^
+../src/algorithm.c:82:45: note: to match this '{'
+EDGELIST* spt_dijkstra(GRAPH *g, int start) {
+                                            ^
+1 warning and 5 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:41:04 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+../src/algorithm.c:102:3: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                insert(h, hn);
+                ^
+../src/algorithm.c:107:8: error: call to undeclared function 'extract_min'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                hn = extract_min(h);
+                     ^
+../src/algorithm.c:107:6: error: assigning to 'HEAPDATA' from incompatible type 'int'
+                hn = extract_min(h);
+                   ^ ~~~~~~~~~~~~~~
+../src/algorithm.c:145:54: error: function definition is not allowed here
+        EDGELIST* sp_dijkstra(GRAPH *g, int start, int end) {
+                                                            ^
+../src/algorithm.c:154:3: error: expected '}'
+        }
+         ^
+../src/algorithm.c:82:45: note: to match this '{'
+EDGELIST* spt_dijkstra(GRAPH *g, int start) {
+                                            ^
+1 warning and 5 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:42:28 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+../src/algorithm.c:102:3: error: call to undeclared function 'insert'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                insert(h, hn);
+                ^
+../src/algorithm.c:107:8: error: call to undeclared function 'extract_min'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+                hn = extract_min(h);
+                     ^
+../src/algorithm.c:107:6: error: assigning to 'HEAPDATA' from incompatible type 'int'
+                hn = extract_min(h);
+                   ^ ~~~~~~~~~~~~~~
+../src/algorithm.c:143:54: error: function definition is not allowed here
+        EDGELIST* sp_dijkstra(GRAPH *g, int start, int end) {
+                                                            ^
+../src/algorithm.c:152:3: error: expected '}'
+        }
+         ^
+../src/algorithm.c:82:45: note: to match this '{'
+EDGELIST* spt_dijkstra(GRAPH *g, int start) {
+                                            ^
+1 warning and 5 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:42:51 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+../src/algorithm.c:143:54: error: function definition is not allowed here
+        EDGELIST* sp_dijkstra(GRAPH *g, int start, int end) {
+                                                            ^
+../src/algorithm.c:152:3: error: expected '}'
+        }
+         ^
+../src/algorithm.c:82:45: note: to match this '{'
+EDGELIST* spt_dijkstra(GRAPH *g, int start) {
+                                            ^
+1 warning and 2 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:43:14 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+../src/algorithm.c:142:55: error: function definition is not allowed here
+                EDGELIST* sp_dijkstra(GRAPH *g, int start, int end) {
+                                                                    ^
+../src/algorithm.c:151:4: error: expected '}'
+                }
+                 ^
+../src/algorithm.c:106:22: note: to match this '{'
+        while (h->size > 0) {
+                            ^
+../src/algorithm.c:151:4: error: expected '}'
+                }
+                 ^
+../src/algorithm.c:82:45: note: to match this '{'
+EDGELIST* spt_dijkstra(GRAPH *g, int start) {
+                                            ^
+1 warning and 3 errors generated.
+make: *** [src/algorithm.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+23:43:24 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+../src/algorithm.c:142:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+}
+^
+2 warnings generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:43:51 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+../src/algorithm.c:144:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+}
+^
+2 warnings generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:44:05 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:45:22 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:45:36 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:46:15 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:52:15 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:52:45 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:55:21 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+23:57:24 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 

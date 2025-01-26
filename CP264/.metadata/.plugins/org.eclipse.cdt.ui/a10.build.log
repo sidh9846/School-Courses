@@ -1,0 +1,19 @@
+23:57:24 **** Incremental Build of configuration Debug for project a10 ****
+make all 
+Building file: ../src/algorithm.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/algorithm.d" -MT"src/algorithm.o" -o "src/algorithm.o" "../src/algorithm.c"
+../src/algorithm.c:24:20: warning: unused variable 'u' [-Wunused-variable]
+        int i, heapindex, u, n = g->order, T[n], parent[n];
+                          ^
+1 warning generated.
+Finished building: ../src/algorithm.c
+ 
+Building target: a10
+Invoking: MacOS X C Linker
+gcc  -o "a10"  ./src/algorithm.o ./src/algorithm_ptest.o ./src/edgelist.o ./src/graph.o ./src/heap.o ./src/queue_stack.o   
+Finished building target: a10
+ 
+
+23:57:24 Build Finished. 0 errors, 1 warnings. (took 935ms)
+

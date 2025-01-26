@@ -1,0 +1,15 @@
+16:06:07 **** Incremental Build of configuration Debug for project a6 ****
+make all 
+Building file: ../src/expression.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/expression.d" -MT"src/expression.o" -o "src/expression.o" "../src/expression.c"
+Finished building: ../src/expression.c
+ 
+Building target: a6
+Invoking: MacOS X C Linker
+gcc  -o "a6"  ./src/common.o ./src/expression.o ./src/expression_ptest.o ./src/queue.o ./src/stack.o   
+Finished building target: a6
+ 
+
+16:06:08 Build Finished. 0 errors, 0 warnings. (took 405ms)
+

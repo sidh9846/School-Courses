@@ -1,0 +1,98 @@
+18:25:05 **** Incremental Build of configuration Debug for project sidh9846_l06_BAD ****
+make all 
+Building file: ../src/main2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main2.d" -MT"src/main2.o" -o "src/main2.o" "../src/main2.c"
+In file included from ../src/main2.c:16:
+In file included from ../src/stack_linked.h:24:
+../src/data.h:18:9: warning: 'DATA_STRING_SIZE' macro redefined [-Wmacro-redefined]
+#define DATA_STRING_SIZE 2048
+        ^
+../src/data2.h:30:9: note: previous definition is here
+#define DATA_STRING_SIZE 80
+        ^
+In file included from ../src/main2.c:16:
+In file included from ../src/stack_linked.h:24:
+../src/data.h:81:6: error: conflicting types for 'data_copy'
+void data_copy(data_type *target, const data_type *source);
+     ^
+../src/data2.h:58:6: note: previous declaration is here
+void data_copy(data_ptr target, data_ptr source);
+     ^
+In file included from ../src/main2.c:16:
+In file included from ../src/stack_linked.h:24:
+../src/data.h:90:5: error: conflicting types for 'data_compare'
+int data_compare(const data_type *target, const data_type *source);
+    ^
+../src/data2.h:67:5: note: previous declaration is here
+int data_compare(const data_ptr target, data_ptr source);
+    ^
+In file included from ../src/main2.c:16:
+In file included from ../src/stack_linked.h:24:
+../src/data.h:100:9: warning: 'BOOL_TO_STR' macro redefined [-Wmacro-redefined]
+#define BOOL_TO_STR(bool_var) bool_var ? "true" : "false"
+        ^
+../src/data2.h:28:9: note: previous definition is here
+#define BOOL_TO_STR(bool_var) bool_var ? "TRUE" : "FALSE"
+        ^
+../src/main2.c:31:2: error: use of undeclared identifier 'stack_linked'
+        stack_linked *stack = stack_initialize();
+        ^
+../src/main2.c:31:16: error: use of undeclared identifier 'stack'
+        stack_linked *stack = stack_initialize();
+                      ^
+../src/main2.c:31:41: error: too few arguments to function call, expected 4, have 0
+        stack_linked *stack = stack_initialize();
+                              ~~~~~~~~~~~~~~~~ ^
+../src/stack_linked.h:56:6: note: 'stack_initialize' declared here
+void stack_initialize(stack_linked_struct **stack, data_type_copy copy, data_type_string to_string,
+     ^
+../src/main2.c:32:54: error: use of undeclared identifier 'stack'
+        printf("Stack empty: %s\n", BOOL_TO_STR(stack_empty(stack)));
+                                                            ^
+../src/main2.c:37:13: error: use of undeclared identifier 'stack'
+        stack_push(stack, item);
+                   ^
+../src/main2.c:39:13: error: use of undeclared identifier 'stack'
+        stack_push(stack, item);
+                   ^
+../src/main2.c:41:13: error: use of undeclared identifier 'stack'
+        stack_push(stack, item);
+                   ^
+../src/main2.c:43:13: error: use of undeclared identifier 'stack'
+        stack_push(stack, item);
+                   ^
+../src/main2.c:45:54: error: use of undeclared identifier 'stack'
+        printf("Stack empty: %s\n", BOOL_TO_STR(stack_empty(stack)));
+                                                            ^
+../src/main2.c:46:13: error: use of undeclared identifier 'stack'
+        stack_peek(stack, item);
+                   ^
+../src/main2.c:51:14: error: use of undeclared identifier 'stack'
+        stack_print(stack);
+                    ^
+../src/main2.c:55:22: error: use of undeclared identifier 'stack'
+        while (!stack_empty(stack)) {
+                            ^
+../src/main2.c:56:13: error: use of undeclared identifier 'stack'
+                stack_pop(stack, &item);
+                          ^
+../src/main2.c:60:54: error: use of undeclared identifier 'stack'
+        printf("Stack empty: %s\n", BOOL_TO_STR(stack_empty(stack)));
+                                                            ^
+../src/main2.c:62:2: error: call to undeclared function 'stack_free'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+        stack_free(&stack);
+        ^
+../src/main2.c:62:14: error: use of undeclared identifier 'stack'
+        stack_free(&stack);
+                    ^
+../src/main2.c:64:6: error: use of undeclared identifier 'stack'
+        if (stack == NULL) {
+            ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+2 warnings and 20 errors generated.
+make: *** [src/main2.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+18:25:05 Build Failed. 20 errors, 2 warnings. (took 290ms)
+

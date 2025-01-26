@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;html, src, l03.doxyfile&apos; to &apos;sidh9846_l033&apos;" description="Move 3 resources to &apos;sidh9846_l033&apos;" destination="/sidh9846_l033" element1="/sidh9846_l03/html" element2="/sidh9846_l03/src" element3="/sidh9846_l03/l03.doxyfile" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="3" stamp="1706554554252" updateReferences="true"/>
+</session>

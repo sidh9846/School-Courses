@@ -1,0 +1,15 @@
+20:48:44 **** Incremental Build of configuration Debug for project sidh9846_l08 ****
+make all 
+Building file: ../src/avl_linked.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/avl_linked.d" -MT"src/avl_linked.o" -o "src/avl_linked.o" "../src/avl_linked.c"
+Finished building: ../src/avl_linked.c
+ 
+Building target: sidh9846_l08
+Invoking: MacOS X C Linker
+gcc  -o "sidh9846_l08"  ./src/avl_linked.o ./src/data.o ./src/main.o   
+Finished building target: sidh9846_l08
+ 
+
+20:48:44 Build Finished. 0 errors, 0 warnings. (took 730ms)
+

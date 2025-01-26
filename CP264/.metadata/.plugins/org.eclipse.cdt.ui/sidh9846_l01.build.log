@@ -1,0 +1,6 @@
+00:11:29 **** Incremental Build of configuration Debug for project sidh9846_l01 ****
+make all 
+make: Nothing to be done for `all'.
+
+00:11:29 Build Finished. 0 errors, 0 warnings. (took 121ms)
+

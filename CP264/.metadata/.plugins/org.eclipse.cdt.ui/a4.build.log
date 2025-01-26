@@ -1,0 +1,15 @@
+21:50:46 **** Incremental Build of configuration Debug for project a4 ****
+make all 
+Building file: ../src/mysort_ptest.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/mysort_ptest.d" -MT"src/mysort_ptest.o" -o "src/mysort_ptest.o" "../src/mysort_ptest.c"
+Finished building: ../src/mysort_ptest.c
+ 
+Building target: a4
+Invoking: MacOS X C Linker
+gcc  -o "a4"  ./src/myrecord.o ./src/myrecord_ptest.o ./src/mysort.o ./src/mysort_ptest.o   
+Finished building target: a4
+ 
+
+21:50:47 Build Finished. 0 errors, 0 warnings. (took 729ms)
+

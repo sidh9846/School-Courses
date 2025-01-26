@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;a10/src/heap.h&apos; to &apos;heaptest.h&apos;" description="Rename resource &apos;heap.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/heap.h" name="heaptest.h" stamp="1712198583871" updateReferences="false"/>&#x0A;<refactoring comment="Rename resource &apos;a10/src/heap.c&apos; to &apos;heaptest.c&apos;" description="Rename resource &apos;heap.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/heap.c" name="heaptest.c" stamp="1712198590664" updateReferences="false"/>
+</session>

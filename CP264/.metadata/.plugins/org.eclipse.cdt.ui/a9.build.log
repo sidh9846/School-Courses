@@ -1,0 +1,15 @@
+17:19:11 **** Incremental Build of configuration Debug for project a9 ****
+make all 
+Building file: ../src/expression_symbol.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/expression_symbol.d" -MT"src/expression_symbol.o" -o "src/expression_symbol.o" "../src/expression_symbol.c"
+Finished building: ../src/expression_symbol.c
+ 
+Building target: a9
+Invoking: MacOS X C Linker
+gcc  -o "a9"  ./src/common_queue_stack.o ./src/expression_symbol.o ./src/expression_symbol_ptest.o ./src/hash.o ./src/heap.o   
+Finished building target: a9
+ 
+
+17:19:12 Build Finished. 0 errors, 0 warnings. (took 783ms)
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.cdt.ui.wizard.project"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.cdt.ui.newCWizards"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialog">
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="1"/>
+		<item key="DIALOG_WIDTH" value="1137"/>
+		<item key="DIALOG_HEIGHT" value="955"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.cdt.ui.wizards.MakeProjFromExisting"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.cdt.ui.importWizardCategory"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/sidh9846_l10.zip"/>
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/sidh9846_l09.zip"/>
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/sidh9846_l08.zip"/>
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/sidh9846_l07.zip"/>
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/sidh9846_l06.zip"/>
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/sidh9846_l05.zip"/>
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/sidh9846_l04.zip"/>
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/sidh9846_l03.zip"/>
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/sidh9846_l02.zip"/>
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/a1.zip"/>
+			<item value="/Users/manveer/Documents/Eclipse/CP264_Exports/sidh9846_l01.zip"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/manveer/Downloads"/>
+		</list>
+	</section>
+</section>
