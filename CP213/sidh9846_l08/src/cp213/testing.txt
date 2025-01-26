@@ -1,0 +1,80 @@
+Testing: RTSameView
+Test + button for starting base, height of 0, 100
+OK
+Test + button for starting base, height of 30, 40
+OK
+Test + button for starting base, height of 60, 60
+OK
+Test == button for starting base, height of 0, 100
+OK
+Test == button for starting base, height of 30, 40
+OK
+Test == button for starting base, height of 60, 60
+OK
+Test Base/Height label for base, height of 30, 40
+OK
+Test Base/Height label for base, height of 42, 42
+OK
+Test ButtonListener for call to RtModel.getBase
+OK
+Test ButtonListener for call to RtModel.getHeight
+OK
+Test ButtonListener for call to RtModel.setBase
+OK
+Test ButtonListener for call to RtModel.setHeight
+OK
+Test Hypotenuse label update:
+OK
+Test ValuesListener for call to RtModel.getBase
+OK
+Test ValuesListener for call to RtModel.getHeight
+OK
+Test for keyboard input
+OK
+Test for printing
+OK
+Mark: 17 / 17
+
+Total
+Failures: 0
+Errors: 0
+Mark: 17 / 17
+
+
+Testing: RTSliderView
+Test BaseSliderListener for call to RtModel.setBase
+OK
+Test HeightSliderListener for call to RtModel.setHeight
+OK
+Test ValuesListener for call to RtModel.getBase
+OK
+Test ValuesListener for call to RtModel.getHeight
+OK
+Test base slider for "0"
+OK
+Test base slider for "48"
+OK
+Test base slider for "99"
+OK
+Test for keyboard input
+OK
+Test for printing
+OK
+Test height slider for "0"
+OK
+Test height slider for "48"
+OK
+Test height slider for "99"
+OK
+Test hypotenuse label update:
+OK
+Test slider initialization:
+OK
+Test slider update on model change:
+OK
+Mark: 15 / 15
+
+Total
+Failures: 0
+Errors: 0
+Mark: 15 / 15
