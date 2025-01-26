@@ -1,0 +1,22 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l10/com.python.pydev.analysis/v2_indexcache
+t01|1680037850875379513|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l10/src/t01.py
+t04|1680040222757308978|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l10/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l10/src/t04.py
+4=t01
+2=t04
+3=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l10/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+3
+fun|2|func!1^25#1*19@func!3^25#1*35@
+tes|2|test!1^24#1*19@test!3^24#1*35@
+tit|2|title!1^23#1*19@title!3^23#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

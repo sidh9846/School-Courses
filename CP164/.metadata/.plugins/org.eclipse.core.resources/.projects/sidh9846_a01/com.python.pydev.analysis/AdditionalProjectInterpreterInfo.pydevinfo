@@ -1,0 +1,44 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_a01/com.python.pydev.analysis/v2_indexcache
+functions|1674598563593209387|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/functions.py
+t01|1673668576640182076|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t01.py
+t03|1674092496158033151|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t03.py
+t02|1673669070389415584|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t02.py
+t05|1674092596250511596|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t05.py
+t04|1673670796919446968|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t04.py
+t07|1674092737361314857|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t07.py
+t06|1674092668626360996|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t06.py
+t09|1674092969068809953|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t09.py
+t08|1674092901895737103|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/functions.py
+4=functions
+8=t01
+1=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t07.py
+6=t02
+2=t07
+5=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t02.py
+7=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a01/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+13
+a|1|a!1^17#1*19@
+all|1|ALLOWED_CHARS!3^12#1*35@
+alp|1|ALPHA!3^13#1*35@
+b|1|b!1^23#1*19@
+cle|1|clean_list!3^16#5*34@
+fil|1|file_analyze!3^45#5*34@
+fin|1|find_subs!3^88#5*34@
+fv|1|fv!5^14#1*51@
+is_|2|is_valid!3^141#5*34@is_leap_year!3^118#5*34@
+mat|2|matrixes_multiply!3^196#5*34@matrix_transpose!3^170#5*34@
+pig|1|pig_latin!3^233#5*34@
+shi|1|shift!3^275#5*34@
+val|1|values!7^14#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

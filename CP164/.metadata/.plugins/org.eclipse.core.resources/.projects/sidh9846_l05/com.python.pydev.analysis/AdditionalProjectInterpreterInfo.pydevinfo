@@ -1,0 +1,52 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l05/com.python.pydev.analysis/v2_indexcache
+functions|1676417611351892612|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/functions.py
+t01|1676418687806469905|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t01.py
+t03|1676418688003825036|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t03.py
+t02|1676418687519010331|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t02.py
+t05|1676418688371991362|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t05.py
+t04|1676418688198741287|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t04.py
+t06|1676418671375879577|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+3=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t01.py
+1=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t02.py
+8=functions
+7=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/functions.py
+11=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t03.py
+13=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t05.py
+5=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t04.py
+4=t01
+9=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l05/src/t06.py
+12=t03
+2=t02
+14=t05
+6=t04
+10=t06
+-- END DICTIONARY
+-- START TREE 1
+18
+ans|3|ans!1^17#1*19@ans!3^17#1*35@ans!5^17#1*51@
+bag|2|bag_to_set!7^143#5*66@bag!9^14#1*83@
+bas|1|base!5^14#1*51@
+cou|1|count!11^30#1*99@
+gcd|1|gcd!7^35#5*66@
+is_|1|is_palindrome!7^115#5*66@
+m|1|m!1^14#1*19@
+n|1|n!1^15#1*19@
+new|1|new_set!9^16#1*83@
+pal|1|palindrome!13^17#1*115@
+pow|1|power!5^15#1*51@
+rec|1|recurse!7^13#5*66@
+s|2|s!13^14#1*115@s!11^15#1*99@
+tes|1|test!11^18#5*98@
+to_|1|to_power!7^87#5*66@
+vow|1|vowel_count!7^57#5*66@
+x|1|x!3^14#1*35@
+y|1|y!3^15#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

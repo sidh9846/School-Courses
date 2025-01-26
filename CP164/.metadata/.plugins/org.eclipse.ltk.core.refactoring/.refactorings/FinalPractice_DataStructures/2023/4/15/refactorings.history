@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FinalPractice_DataStructures/src/BST_linked-2.py&apos; to &apos;BST_linked.py&apos;" description="Rename resource &apos;BST_linked-2.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/BST_linked-2.py" name="BST_linked.py" stamp="1681410416904" updateReferences="true"/>
+</session>

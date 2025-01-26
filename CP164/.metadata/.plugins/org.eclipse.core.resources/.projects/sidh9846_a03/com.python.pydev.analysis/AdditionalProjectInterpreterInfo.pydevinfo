@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_a03/com.python.pydev.analysis/v2_indexcache
+functions|1675657052734451327|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/functions.py
+t01|1675657255051640959|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t01.py
+t03|1675636913393659852|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t03.py
+t02|1675657156853883229|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t02.py
+t05|1675555088272515408|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t05.py
+t04|1675637254291402689|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t04.py
+t06|1675636392000270336|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+7=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t05.py
+9=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t06.py
+11=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t03.py
+2=functions
+4=t01
+12=t03
+6=t02
+1=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/functions.py
+8=t05
+3=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t01.py
+10=t06
+5=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a03/src/t02.py
+-- END DICTIONARY
+-- START TREE 1
+10
+is_|2|is_palindrome_stack!1^61#5*18@is_mirror_stack!1^184#5*18@
+lst|2|lst!3^17#1*35@lst!5^17#1*51@
+maz|2|maze2!7^31#1*67@maze1!7^22#1*67@
+mir|2|MIRRORED!1^20#1*19@mirror!9^14#1*83@
+ope|1|OPERATORS!1^103#1*19@
+pal|1|palindrome!11^16#1*99@
+pos|1|postfix!1^106#5*18@
+sou|2|source!3^15#1*35@source!5^15#1*51@
+sta|2|stack_split_alt!1^23#5*18@stack_maze!1^143#5*18@
+str|1|string!11^15#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

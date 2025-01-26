@@ -1,0 +1,139 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+Version: 2023-03-3
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Test: source.split_alt_r() with:
+        source._front > None
+OK
+Test: source.split_alt_r() with:
+        source._front > 99 > None
+OK
+Test: source.split_alt_r() with:
+        source._front > 11 > 22 > 33 > 44 > None
+OK
+Test: source.split_alt_r() with:
+        source._front > 11 > 22 > 33 > 44 > 55 > None
+OK
+Test: source.split_alt_r() with:
+        source._front > 0 > 0 > 0 > None
+OK
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Test: target.intersection_r(source1, source2) with:
+        source1._front > None
+        source2._front > None
+OK
+Test: target.intersection_r(source1, source2) with:
+        source1._front > None
+        source2._front > 22 > 33 > 11 > 55 > 44 > None
+OK
+Test: target.intersection_r(source1, source2) with:
+        source1._front > 22 > 33 > 11 > 55 > 44 > None
+        source2._front > None
+OK
+Test: target.intersection_r(source1, source2) with:
+        source1._front > 22 > 33 > 11 > 55 > 44 > None
+        source2._front > 22 > 33 > 11 > 55 > 44 > None
+OK
+Test: target.intersection_r(source1, source2) with:
+        source1._front > 99 > 99 > 99 > 99 > None
+        source2._front > 99 > 99 > 99 > 99 > None
+OK
+Test: target.intersection_r(source1, source2) with:
+        source1._front > 22 > 33 > 11 > 55 > None
+        source2._front > 11 > 55 > 44 > None
+OK
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Test: target.union_r(source1, source2) with:
+        source1._front > None
+        source2._front > None
+OK
+Test: target.union_r(source1, source2) with:
+        source1._front > None
+        source2._front > 22 > 33 > 11 > 55 > 44 > None
+OK
+Test: target.union_r(source1, source2) with:
+        source1._front > 22 > 33 > 11 > 55 > 44 > None
+        source2._front > None
+OK
+Test: target.union_r(source1, source2) with:
+        source1._front > 22 > 33 > 11 > 55 > 44 > None
+        source2._front > 22 > 33 > 11 > 55 > 44 > None
+OK
+Test: target.union_r(source1, source2) with:
+        source1._front > 99 > 99 > 99 > 99 > None
+        source2._front > 99 > 99 > 99 > 99 > None
+OK
+Test: target.union_r(source1, source2) with:
+        source1._front > 22 > 33 > 11 > 55 > None
+        source2._front > 11 > 55 > 44 > None
+OK
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Test: source.reverse_r() with:
+        source._front > None
+OK
+Test: source.reverse_r() with:
+        source._front > 99 > None
+OK
+Test: source.reverse_r() with:
+        source._front > 22 > 33 > 11 > 55 > 44 > None
+OK
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+
+-------------------------------------------------------
+t13
+-------------------------------------------------------
+
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+
+-------------------------------------------------------

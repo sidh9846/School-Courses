@@ -1,0 +1,28 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_l06/com.python.pydev.analysis/v2_indexcache
+t01|1677902563690248135|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l06/src/t01.py
+t02|1677903777634261019|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l06/src/t02.py
+t04|1677904077967203734|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l06/src/t04.py
+t06|1677905848093901215|/Users/manveer/Documents/Eclipse/CP164/sidh9846_l06/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l06/src/t06.py
+6=t01
+8=t02
+1=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l06/src/t04.py
+2=t04
+4=t06
+5=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l06/src/t01.py
+7=/Users/manveer/Documents/Eclipse/CP164/sidh9846_l06/src/t02.py
+-- END DICTIONARY
+-- START TREE 1
+3
+lis|5|list!1^17#1*19@list2!3^19#1*35@list!5^18#1*51@list!7^19#1*67@list1!3^18#1*35@
+lst|5|lst_linked!1^14#1*19@lst_linked2!3^15#1*35@lst_linked!5^14#1*51@lst_linked!7^14#1*67@lst_linked1!3^14#1*35@
+v|2|v!7^17#1*67@v!5^16#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

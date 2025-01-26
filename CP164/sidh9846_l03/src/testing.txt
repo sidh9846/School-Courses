@@ -1,0 +1,191 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+Version: 2023-02-3
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Test: source.insert(v) with: v in [99]
+OK
+Test: source.insert(v) with: v in [22, 33, 11, 55, 44]
+OK
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Test: source.peek() with: _values = [99]
+OK
+Test: source.peek() with: _values = [22, 33, 11, 55, 44]
+OK
+Test: source.remove() with: _values = [99]
+OK
+Test: source.remove() with: _values = [11, 22, 33, 44]
+OK
+Test: source.remove() with: _values = [22, 33, 11, 55, 44]
+OK
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Test: array_to_queue(queue, source) with:
+queue: _values = []
+source: []
+OK
+Test: array_to_queue(queue, source) with:
+queue: _values = []
+source: [99]
+OK
+Test: array_to_queue(queue, source) with:
+queue: _values = []
+source: [11, 22, 33, 44]
+OK
+Test: array_to_queue(queue, source) with:
+queue: _values = []
+source: [55, 44, 33, 22, 11]
+OK
+Test: array_to_queue(queue, source) with:
+queue: _values = []
+source: [22, 33, 11, 55, 44]
+OK
+Test for proper module documentation:
+OK
+Test: queue_test() for call to: is_empty
+OK
+Test: queue_test() for call to: insert
+OK
+Test: queue_test() for call to: remove
+OK
+Test: queue_test() for call to: peek
+OK
+Test: queue_to_array(queue, target) with:
+queue: _values = []
+target: []
+OK
+Test: queue_to_array(queue, target) with:
+queue: _values = [99]
+target: []
+OK
+Test: queue_to_array(queue, target) with:
+queue: _values = [11, 22, 33, 44]
+target: []
+OK
+Test: queue_to_array(queue, target) with:
+queue: _values = [55, 44, 33, 22, 11]
+target: []
+OK
+Test: queue_to_array(queue, target) with:
+queue: _values = [22, 33, 11, 55, 44]
+target: []
+OK
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Test: source.insert(v) with: v in [99]
+OK
+Test: source.insert(v) with: v in [22, 33, 11, 55, 44]
+OK
+Test: source.peek() with: _values = [99]
+OK
+Test: source.peek() with: _values = [55, 44, 33, 22, 11]
+OK
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Test: source.remove() with: _values = [99]
+OK
+Test: source.remove() with: _values = [55, 44, 11, 22, 33]
+OK
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Test: array_to_pq(pq, source) with:
+pq: _values = []
+source: []
+OK
+Test: array_to_pq(pq, source) with:
+pq: _values = []
+source: [99]
+OK
+Test: array_to_pq(pq, source) with:
+pq: _values = []
+source: [11, 22, 33, 44]
+OK
+Test: array_to_pq(pq, source) with:
+pq: _values = []
+source: [55, 44, 33, 22, 11]
+OK
+Test: array_to_pq(pq, source) with:
+pq: _values = []
+source: [22, 33, 11, 55, 44]
+OK
+Test for proper module documentation:
+OK
+Test: pq_to_array(pq, target) with:
+pq: _values = []
+target: []
+OK
+Test: pq_to_array(pq, target) with:
+pq: _values = [99]
+target: []
+OK
+Test: pq_to_array(pq, target) with:
+pq: _values = [11, 22, 33, 44]
+target: []
+OK
+Test: pq_to_array(pq, target) with:
+pq: _values = [55, 44, 33, 22, 11]
+target: []
+OK
+Test: pq_to_array(pq, target) with:
+pq: _values = [22, 33, 11, 55, 44]
+target: []
+OK
+Test: priority_queue_test() for call to: is_empty
+OK
+Test: priority_queue_test() for call to: insert
+OK
+Test: priority_queue_test() for call to: remove
+OK
+Test: priority_queue_test() for call to: peek
+OK
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+
+-------------------------------------------------------
+t13
+-------------------------------------------------------
+
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+
+-------------------------------------------------------

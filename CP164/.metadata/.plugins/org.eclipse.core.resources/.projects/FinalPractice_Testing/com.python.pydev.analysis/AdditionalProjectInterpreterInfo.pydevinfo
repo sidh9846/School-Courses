@@ -1,0 +1,29 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/FinalPractice_Testing/com.python.pydev.analysis/v2_indexcache
+BST_linked_tesing|1681741513485879400|/Users/manveer/Documents/Eclipse/CP164/FinalPractice_Testing/src/BST_linked_tesing.py
+Hash|1681450631345000384|/Users/manveer/Documents/Eclipse/CP164/FinalPractice_Testing/src/Hash.py
+List_Linked|1681341410027167880|/Users/manveer/Documents/Eclipse/CP164/FinalPractice_Testing/src/List_Linked.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=BST_linked_tesing
+1=/Users/manveer/Documents/Eclipse/CP164/FinalPractice_Testing/src/BST_linked_tesing.py
+5=/Users/manveer/Documents/Eclipse/CP164/FinalPractice_Testing/src/List_Linked.py
+4=Hash
+6=List_Linked
+3=/Users/manveer/Documents/Eclipse/CP164/FinalPractice_Testing/src/Hash.py
+-- END DICTIONARY
+-- START TREE 1
+7
+bst|1|bst!1^14#1*19@
+ht1|1|ht1!3^24#1*35@
+ht2|1|ht2!3^25#1*35@
+lst|3|lst2!5^23#1*51@lst1!5^15#1*51@lst3!5^30#1*51@
+sou|1|source!3^21#1*35@
+tar|1|target!3^22#1*35@
+val|4|values3!5^31#1*51@values1!5^16#1*51@values!1^16#1*19@values2!5^24#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

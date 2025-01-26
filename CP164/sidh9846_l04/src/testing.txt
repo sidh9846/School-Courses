@@ -1,0 +1,223 @@
+"""
+-------------------------------------------------------
+Lab/Assignment Testing
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+Version: 2023-02-9
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Test '_linear_search' with various values: ([], 22)
+OK
+Test '_linear_search' with various values: ([99], 99)
+OK
+Test '_linear_search' with various values: ([22, 33, 11, 55, 44], 55)
+OK
+Test '_linear_search' with various values: ([22, 33, 11, 55, 44], 99)
+OK
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Test 'append' with various values: ([], 99)
+OK
+Test 'append' with various values: ([99], 1)
+OK
+Test 'append' with various values: ([22, 33, 11, 55, 44], 66)
+OK
+Test 'insert' with various values: ([], 0, 99)
+OK
+Test 'insert' with various values: ([], -1, 99)
+OK
+Test 'insert' with various values: ([], 10, 99)
+OK
+Test 'insert' with various values: ([22, 33, 11, 55, 44], 0, 0)
+OK
+Test 'insert' with various values: ([22, 33, 11, 55, 44], 1, 0)
+OK
+Test 'insert' with various values: ([22, 33, 11, 55, 44], -1, 0)
+OK
+Test 'insert' with various values: ([22, 33, 11, 55, 44], 100, 0)
+OK
+Test 'insert' with various values: ([22, 33, 11, 55, 44], -100, 0)
+OK
+Test 'remove' with various values: ([], 0)
+OK
+Test 'remove' with various values: ([99], 99)
+OK
+Test 'remove' with various values: ([22, 33, 11, 55, 44], 22)
+OK
+Test 'remove' with various values: ([22, 33, 11, 55, 44], 44)
+OK
+Test 'remove' with various values: ([22, 33, 11, 55, 44], 66)
+OK
+Test 'remove' with various values: ([22, 33, 11, 55, 44], 11)
+OK
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Test '__contains__' with various values: ([], 0)
+OK
+Test '__contains__' with various values: ([99], 99)
+OK
+Test '__contains__' with various values: ([22, 33, 11, 55, 44], 33)
+OK
+Test '__contains__' with various values: ([22, 33, 11, 55, 44], 99)
+OK
+Test 'count' with various values: ([], 0)
+OK
+Test 'count' with various values: ([99], 99)
+OK
+Test 'count' with various values: ([11, 22, 33, 44], 44)
+OK
+Test 'count' with various values: ([11, 22, 33, 44], 99)
+OK
+Test 'count' with various values: ([0, 0, 0, 0], 0)
+OK
+Test 'find' with various values: ([], 0)
+OK
+Test 'find' with various values: ([99], 99)
+OK
+Test 'find' with various values: ([22, 33, 11, 55, 44], 55)
+OK
+Test 'find' with various values: ([22, 33, 11, 55, 44], 99)
+OK
+Test 'max' with various values: [11, 22, 33, 44]
+OK
+Test 'max' with various values: [11, 22, 33, 44, 55]
+OK
+Test 'max' with various values: [22, 33, 11, 55, 44]
+OK
+Test 'min' with various values: [11, 22, 33, 44]
+OK
+Test 'min' with various values: [11, 22, 33, 44, 55]
+OK
+Test 'min' with various values: [22, 33, 11, 55, 44]
+OK
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Test '__getitem__' with various values: ([99], 0)
+OK
+Test '__getitem__' with various values: ([99], -1)
+OK
+Test '__getitem__' with various values: ([22, 33, 11, 55, 44], 3)
+OK
+Test '__getitem__' with various values: ([22, 33, 11, 55, 44], -1)
+OK
+Test '__getitem__' with various values: ([22, 33, 11, 55, 44], -4)
+OK
+Test '__setitem__' with various values: ([99], 0, 1)
+OK
+Test '__setitem__' with various values: ([99], -1, 1)
+OK
+Test '__setitem__' with various values: ([22, 33, 11, 55, 44], 3, 99)
+OK
+Test '__setitem__' with various values: ([22, 33, 11, 55, 44], -1, 99)
+OK
+Test '__setitem__' with various values: ([22, 33, 11, 55, 44], -4, 99)
+OK
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Test: array_to_list(llist, source) with:
+llist: _values = []
+source: []
+OK
+Test: array_to_list(llist, source) with:
+llist: _values = []
+source: [99]
+OK
+Test: array_to_list(llist, source) with:
+llist: _values = []
+source: [11, 22, 33, 44]
+OK
+Test: array_to_list(llist, source) with:
+llist: _values = []
+source: [55, 44, 33, 22, 11]
+OK
+Test: array_to_list(llist, source) with:
+llist: _values = []
+source: [22, 33, 11, 55, 44]
+OK
+Test: list_to_array(llist, target) with:
+llist: _values = []
+target: []
+OK
+Test: list_to_array(llist, target) with:
+llist: _values = [99]
+target: []
+OK
+Test: list_to_array(llist, target) with:
+llist: _values = [11, 22, 33, 44]
+target: []
+OK
+Test: list_to_array(llist, target) with:
+llist: _values = [55, 44, 33, 22, 11]
+target: []
+OK
+Test: list_to_array(llist, target) with:
+llist: _values = [22, 33, 11, 55, 44]
+target: []
+OK
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Test: list_test() for call to: is_empty
+OK
+Test: list_test() for call to: insert
+OK
+Test: list_test() for call to: remove
+OK
+Test: list_test() for call to: count
+OK
+Test: list_test() for call to: append
+OK
+Test: list_test() for call to: index
+OK
+Test: list_test() for call to: find
+OK
+Test: list_test() for call to: max
+OK
+Test: list_test() for call to: min
+OK
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+
+-------------------------------------------------------
+t13
+-------------------------------------------------------
+
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+
+-------------------------------------------------------

@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/manveer/Documents/Eclipse/CP164/.metadata/.plugins/org.eclipse.core.resources/.projects/sidh9846_a02/com.python.pydev.analysis/v2_indexcache
+t01|1675028604771042008|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a02/src/t01.py
+t03|1675028955790094474|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a02/src/t03.py
+t02|1675028795236531491|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a02/src/t02.py
+t05|1675029461355048483|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a02/src/t05.py
+t04|1675029310765126184|/Users/manveer/Documents/Eclipse/CP164/sidh9846_a02/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+1=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a02/src/t05.py
+6=t01
+7=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a02/src/t04.py
+10=t03
+4=t02
+2=t05
+5=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a02/src/t01.py
+8=t04
+3=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a02/src/t02.py
+9=/Users/manveer/Documents/Eclipse/CP164/sidh9846_a02/src/t03.py
+-- END DICTIONARY
+-- START TREE 1
+11
+cou|1|counts!1^31#1*19@
+fil|5|file!3^15#1*35@file!5^15#1*51@file!7^15#1*67@file!1^15#1*19@file!9^15#1*83@
+gen|3|genre!9^29#1*83@genres!7^31#1*67@genre!7^32#1*67@
+gmo|1|gmovies!9^31#1*83@
+lin|5|line!1^16#1*19@line!7^16#1*67@line!9^16#1*83@line!3^16#1*35@line!5^16#1*51@
+m|1|m!7^40#1*67@
+mov|10|movie!3^20#5*35@movies!7^17#1*67@movies!9^17#1*83@movie!9^20#5*83@movies!3^17#1*35@movie!1^20#5*19@movies!5^17#1*51@movie!7^20#5*67@movie!5^20#5*51@movies!1^17#1*19@
+rat|1|rating!3^29#1*35@
+rmo|1|rmovies!3^31#1*35@
+yea|1|year!5^29#1*51@
+ymo|1|ymovies!5^31#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

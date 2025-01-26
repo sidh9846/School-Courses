@@ -1,0 +1,356 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+Version: 2023-02-05
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+target = Queue()
+print(target.is_empty())
+
+True
+
+
+target = Queue()
+target.insert(1)
+print(target.is_empty())
+
+False
+
+
+
+target = Queue()
+print(target.is_full())
+
+False
+
+
+target = Queue()
+target.insert(1)
+print(target.is_full())
+
+False
+
+
+target = Queue()
+[target.insert(i) for i in range(0, 11)]
+print(target.is_full())
+
+True
+
+
+
+target = Queue()
+[target.insert(i) for i in range(0, 11)]
+print(len(target))
+
+10
+
+
+target = Queue()
+print(len(target))
+
+0
+
+
+target = Queue()
+target.insert(1)
+print(len(target))
+
+1
+
+
+
+
+
+
+target = Queue()
+[print(i) for i in target]
+target.insert(1)
+[print(i) for i in target]
+
+1
+
+
+target = Queue()
+target.insert(1)
+[print(i) for i in target]
+target.insert(2)
+target.insert(3)
+[print(i) for i in target]
+
+1
+1
+2
+3
+
+
+
+target = Queue()
+target.insert(1)
+target.insert(2)
+target.insert(3)
+v = target.remove()
+print(v)
+
+1
+
+
+target = Queue()
+target.insert(1)
+target.insert(2)
+target.insert(3)
+v = target.remove()
+print(v)
+v = target.remove()
+print(v)
+
+1
+2
+
+
+target = Queue()
+target.insert(1)
+target.insert(2)
+target.insert(3)
+v = target.remove()
+print(v)
+v = target.peek()
+print(v)
+
+1
+2
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+source = Queue()
+target = Queue()
+[source.insert(i) for i in range(1, 11)]
+[target.insert(i) for i in range(1, 12)]
+print(source == target)
+
+False
+
+
+source = Queue()
+target = Queue()
+[source.insert(i) for i in range(1, 11)]
+[target.insert(i) for i in range(1, 11)]
+print(source == target)
+
+True
+
+
+source = Queue()
+target = Queue()
+print(source == target)
+
+True
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+source1 = [5, 8, 12, 8, 9]
+source2 = [7, 9, 14]
+
+Result
+5 7 8 9 12 14 8 9 
+
+
+source1 = [5, 8, 12, 8, 9, 10, 11]
+source2 = [7, 9, 14]
+
+Result
+5 7 8 9 12 14 8 9 10 11 
+
+
+source1 = []
+source2 = [7, 9, 14]
+
+Result
+7 9 14 
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+source1 = [5, 8, 12, 8]
+source2 = [7, 9, 14]
+
+Result
+5 7 8 9 12 14 8 
+
+
+source1 = [5, 8, 12, 8]
+source2 = []
+
+Result
+5 8 12 8 
+
+
+source1 = [5, 8, 12, 8]
+source2 = [1, 2, 3]
+
+Result
+5 1 8 2 12 3 8 
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+source = Priority_Queue()
+source.insert("c")
+source.insert("b")
+source.insert("a")
+source.insert("e")
+source.insert("d")
+source.insert("g")
+source.insert("f")
+source.insert("i")
+source.insert("h")
+
+key = f
+target1
+g
+h
+i
+target2
+a
+b
+c
+d
+e
+f
+
+key = a
+target1
+b
+c
+d
+e
+f
+g
+h
+i
+target2
+a
+
+key = z
+target1
+target2
+a
+b
+c
+d
+e
+f
+g
+h
+i
+
+key = e
+target1
+f
+g
+h
+i
+target2
+a
+b
+c
+d
+e
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+source = Priority_Queue()
+source.insert("c")
+source.insert("b")
+source.insert("a")
+source.insert("e")
+source.insert("d")
+source.insert("g")
+source.insert("f")
+source.insert("i")
+source.insert("h")
+
+
+key = d
+target1
+e
+f
+g
+h
+i
+target2
+a
+b
+c
+d
+
+
+key = a
+target1
+b
+c
+d
+e
+f
+g
+h
+i
+target2
+a
+
+
+key = y
+target1
+target2
+a
+b
+c
+d
+e
+f
+g
+h
+i
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+
+-------------------------------------------------------
+t13
+-------------------------------------------------------
+
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+
+-------------------------------------------------------

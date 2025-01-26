@@ -1,0 +1,22 @@
+"""
+-------------------------------------------------------
+Assignment 4, Task 5
+-------------------------------------------------------
+Author:  Manveer Sidhu
+ID:      169029846
+Email:   sidh9846@mylaurier.ca
+__updated__ = "2023-02-11"
+-------------------------------------------------------
+"""
+
+from Queue_array import Queue
+from Priority_Queue_array import Priority_Queue
+
+source = Priority_Queue()
+
+source.insert(2)
+source.insert(1)
+source.insert(3)
+
+
+print(source.peek())
